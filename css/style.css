@@ -135,6 +135,9 @@ footer {
     display: block;
 }
 .study-list-item {
+    margin: 0 auto 25px;
+}    
+.study-list-item {
     margin: 0 auto 10px;
     text-align: center;
 }
